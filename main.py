@@ -113,8 +113,9 @@ def make_typewriter_gif(filename, theme="dark"):
     base = make_base(theme)
     phrases = [
         "Medical Physicist...",
-        "Dev in training...",
-        ".NET Lover...",
+        "“My new journey began with R for data analysis...",
+        "Now, I’m a developer in training...” 
+        “And a lover of R and .NET...”,
     ]
 
     frames_text, durations = [], []
